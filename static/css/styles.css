@@ -14,7 +14,8 @@
 	 height: 100vh;
 	 background-color: #ecf0f9;
 	 background-attachment: fixed;
-	 background-image: url("https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?w=1960");
+	 background-image: url("https://images.pexels.com/photos/7991231/pexels-photo-7991231.jpeg?w=1960");
+
 }
 .large {
      font-size: 3rem;
@@ -45,6 +46,7 @@
 	 padding-bottom: 0.5em;
 	 margin-bottom: 1rem;
 	 position: relative;
+	 color: #ffffff;
 }
  .heading:after {
 	 display: block;
@@ -54,12 +56,14 @@
 	 height: 4px;
 	 background: linear-gradient(135deg, #1a9be6, #1a57e6);
 	 bottom: 0;
+	 color: #ffffff;
 }
  .description {
 	 width: 100%;
 	 margin-top: 0;
 	 margin-left: 1rem;
 	 margin-bottom: 3rem;
+	 color: #ffffff;
 }
  .card {
 	 color: inherit;
