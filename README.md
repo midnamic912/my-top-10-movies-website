@@ -22,7 +22,7 @@ Demo: <a href="https://i.imgur.com/T72w1RG.mp4">My Top 10 Movies Demo</a>
 
   <li>The movies are presented in form of two-side cards. The front side shows movie posters and the back side shows informations of the movie, including movie title, released year, movie summary, rating by user, review by user.</li>
 
-# Tools & Technologies:
+# Tools & Techniques:
 <li>Flask</li>
 <li>Bootstrap</li>
 <li>SQLAlchemy</li>
