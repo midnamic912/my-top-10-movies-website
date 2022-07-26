@@ -26,7 +26,7 @@ Demo: <a href="https://i.imgur.com/T72w1RG.mp4">My Top 10 Movies Demo</a>
 <li>Flask</li>
 <li>Bootstrap</li>
 <li>SQLAlchemy</li>
-<li>Implemented database CRUD for the movie information configuration</li>
+<li>Database CRUD</li>
 <li>RESTful API</li>
 
 
